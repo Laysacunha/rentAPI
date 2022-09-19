@@ -1,0 +1,7 @@
+node_modules
+# Keep environment variables out of version control
+.env
+.vscode
+*.lock
+# src/database/database.sqlite
+# src/database/database.test.sqlite
